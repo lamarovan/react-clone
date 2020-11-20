@@ -1,5 +1,3 @@
-// import AliceCarousel from 'react-alice-carousel';
-// import "react-alice-carousel/lib/alice-carousel.css";
 import slideshow from '../main';
 import slider1 from "../img/slider1.webp";
 import slider2 from "../img/slider2.webp";
@@ -10,7 +8,7 @@ function Slider() {
 
   return(
     <section className="slideshow-container">      
-      <div className="mySlides fade" style={{display: "block"}}>
+      <div className="mySlides fade">
         <img className="img-slider" src={slider1} />
       </div>
 

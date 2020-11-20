@@ -4,6 +4,7 @@ import './Style.css';
 import Test from './components/Test';
 import Navbar from './components/Navbar';
 import Slider from './components/Slider';
+import Tiles from './components/Tiles';
 import Footer from './components/Footer';
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
       <Navbar />
       <Slider />
       <p>Hello world</p>
-      <Test />
+      <Tiles />
       <Footer />
     </div>
   );
