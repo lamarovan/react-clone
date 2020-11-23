@@ -6,10 +6,10 @@ function Tiles() {
   return(
     <section className="tiles">
       <div className="col">
-        <a href="#">
+        <a href="javascript:void(0)" className="text-decoration-none">
           <div className="item">
             <div className="img">
-              <img src={banner1} width="540" />
+              <img src={banner1} width="540" alt="" />
             </div>
             <div className="text">
               <h4>Glass Collection</h4>
@@ -17,10 +17,10 @@ function Tiles() {
             </div>
           </div>
         </a>
-        <a href="#">
+        <a href="javascript:void(0)" className="text-decoration-none">
           <div className="item">
             <div className="img">
-              <img src={banner2} width="540" />
+              <img src={banner2} width="540" alt="" />
             </div>
             <div className="text">
               <h4>Glass Collection</h4>
@@ -30,10 +30,10 @@ function Tiles() {
         </a>
       </div>
       <div className="col">
-        <a href="#">
+        <a href="javascript:void(0)" className="text-decoration-none">
           <div className="item">
             <div className="img">
-              <img src={banner3} width="540" />
+              <img src={banner3} width="540" alt="" />
             </div>
             <div className="text">
               <h4>Glass Collection</h4>
@@ -41,10 +41,10 @@ function Tiles() {
             </div>
           </div>
         </a>
-        <a href="#">
+        <a href="javascript:void(0)" className="text-decoration-none">
           <div className="item">
             <div className="img">
-              <img src={banner1} width="540" />
+              <img src={banner1} width="540" alt="" />
             </div>
             <div className="text">
               <h4>Glass Collection</h4>

@@ -4,9 +4,9 @@ function Row() {
   return(
     <div className="row">
       <div className="item">
-        <a href="#">
+        <a href="javascript:void(0)" className="text-decoration-none">
           <div className="img">
-            <img src={ladies} width="270" />
+            <img src={ladies} width="270" alt="" />
           </div>
           <div className="product-desc">
             <p>Seiko</p>
@@ -16,9 +16,9 @@ function Row() {
         </a>
       </div>
       <div className="item">
-        <a href="#">
+        <a href="javascript:void(0)" className="text-decoration-none">
           <div className="img">
-            <img src={ladies} width="270" />
+            <img src={ladies} width="270" alt="" />
           </div>
           <div className="product-desc">
             <p>Seiko</p>
@@ -28,9 +28,9 @@ function Row() {
         </a>
       </div>
       <div className="item">
-        <a href="#">
+        <a href="javascript:void(0)" className="text-decoration-none">
           <div className="img">
-            <img src={ladies} width="270" />
+            <img src={ladies} width="270" alt="" />
           </div>
           <div className="product-desc">
             <p>Seiko</p>
@@ -40,9 +40,9 @@ function Row() {
         </a>
       </div>
       <div className="item">
-        <a href="#">
+        <a href="javascript:void(0)" className="text-decoration-none">
           <div className="img">
-            <img src={ladies} width="270" />
+            <img src={ladies} width="270" alt="" />
           </div>
           <div className="product-desc">
             <p>Seiko</p>

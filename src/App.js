@@ -3,7 +3,6 @@ import './App.css';
 import './Style.css';
 import Navbar from './components/Navbar';
 import CarouselSlider from './components/CarouselSlider';
-// import Slider from './components/Slider';
 import Tiles from './components/Tiles';
 import Category from './components/Category';
 import Footer from './components/Footer';
@@ -14,7 +13,6 @@ function App() {
     <div className="App">
       <Navbar />
       <CarouselSlider />
-      {/* <Slider /> */}
       <Tiles />
       <Category />
       <Footer />

@@ -31,7 +31,7 @@ function Footer() {
 
       <div className="row">
         <div className="container">
-          <img src={logo} />
+          <img src={logo} alt="" />
           <ul>
             <li>E-mail: Foxshop@gmail.com</li>
             <li>Hours: 10:00 - 18:00, Mon - Fri</li>

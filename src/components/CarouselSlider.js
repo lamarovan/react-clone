@@ -8,17 +8,17 @@ function CarouselSlider() {
     <Carousel>
       <Carousel.Item>
         <div>
-          <img className="d-block w-100" src={slider1} />
+          <img className="d-block w-100" src={slider1} alt="first image" />
         </div>
       </Carousel.Item>
       <Carousel.Item>
         <div>
-          <img className="d-block w-100" src={slider2} />
+          <img className="d-block w-100" src={slider2} alt="second image" />
         </div>
       </Carousel.Item>
       <Carousel.Item>
         <div>
-          <img className="d-block w-100" src={slider1} />
+          <img className="d-block w-100" src={slider1} alt="third image" />
         </div>
       </Carousel.Item>
     </Carousel>

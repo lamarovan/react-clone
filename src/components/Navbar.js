@@ -9,13 +9,13 @@ function Navbar() {
     <header>
       <div className="hdr-top">
         <div className="icons">
-          <a href="#"><FontAwesomeIcon icon={faEnvelope} /></a>
-          <a href="#"><FontAwesomeIcon icon={faFacebook} /></a>
-          <a href="#"><FontAwesomeIcon icon={faTwitter} /></a>
-          <a href="#"><FontAwesomeIcon icon={faInstagram} /></a>
-          <a href="#"><FontAwesomeIcon icon={faYoutube} /></a>
-          <a href="#"><FontAwesomeIcon icon={faPinterest} /></a>
-          <a href="#"><FontAwesomeIcon icon={faLinkedin} /></a>
+          <a href="javascript:void(0)"><FontAwesomeIcon icon={faEnvelope} /></a>
+          <a href="javascript:void(0)"><FontAwesomeIcon icon={faFacebook} /></a>
+          <a href="javascript:void(0)"><FontAwesomeIcon icon={faTwitter} /></a>
+          <a href="javascript:void(0)"><FontAwesomeIcon icon={faInstagram} /></a>
+          <a href="javascript:void(0)"><FontAwesomeIcon icon={faYoutube} /></a>
+          <a href="javascript:void(0)"><FontAwesomeIcon icon={faPinterest} /></a>
+          <a href="javascript:void(0)"><FontAwesomeIcon icon={faLinkedin} /></a>
         </div>
         <div className="light-text">
           this is the black part
@@ -32,27 +32,27 @@ function Navbar() {
 
       <div className="hdr">
       <div className="logo">
-        <a href="#"><img src={logo} /></a>
+        <a href="javascript:void(0)"><img src={logo} alt="" /></a>
       </div>
       <div className="list">
         <ul>
           <li className="dropdown">
-            <a href="#">Home page</a>
+            <a href="javascript:void(0)">Home page</a>
             <div className="dropdown-content">
-              <a href="#">Link 1</a>
-              <a href="#">Link 2</a>
-              <a href="#">Link 3</a>
+              <a href="javascript:void(0)">Link 1</a>
+              <a href="javascript:void(0)">Link 2</a>
+              <a href="javascript:void(0)">Link 3</a>
             </div>
           </li>
-          <li><a href="#">Theme features</a></li>
-          <li><a href="#">Shop</a></li>
-          <li><a href="#">Men</a></li>
+          <li><a href="javascript:void(0)">Theme features</a></li>
+          <li><a href="javascript:void(0)">Shop</a></li>
+          <li><a href="javascript:void(0)">Men</a></li>
         </ul>
       </div>
       <div className="icons">
-        <a href="#"><FontAwesomeIcon icon={faSearch} /></a>
-        <a href="#"><FontAwesomeIcon icon={faHeart} /></a>
-        <a href="#"><FontAwesomeIcon icon={faCartPlus} /></a>
+        <a href="javascript:void(0)"><FontAwesomeIcon icon={faSearch} /></a>
+        <a href="javascript:void(0)"><FontAwesomeIcon icon={faHeart} /></a>
+        <a href="javascript:void(0)"><FontAwesomeIcon icon={faCartPlus} /></a>
       </div>
     </div>
     </header>

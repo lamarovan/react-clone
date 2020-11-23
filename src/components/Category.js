@@ -12,25 +12,25 @@ function Category() {
 
       <div className="category">
         <h2>
-          <a href="#">
+          <a href="javascript:void(0)">
             <span className="icon"><FontAwesomeIcon icon={faVenusDouble} /></span>
             <span className="txt">Women</span>
           </a>
         </h2>
         <h2>
-          <a href="#">
+          <a href="javascript:void(0)">
             <span className="icon"><FontAwesomeIcon icon={faVenusDouble} /></span>
             <span className="txt">Men</span>
           </a>
         </h2>
         <h2>
-          <a href="#">
+          <a href="javascript:void(0)">
             <span className="icon"><FontAwesomeIcon icon={faVenusDouble} /></span>
             <span className="txt">Accessories</span>
           </a>
         </h2>
         <h2>
-          <a href="#">
+          <a href="javascript:void(0)">
             <span className="icon"><FontAwesomeIcon icon={faVenusDouble} /></span>
             <span className="txt">Sale</span>
           </a>
@@ -47,12 +47,12 @@ function Category() {
       </div>
     
       <div className="brands">
-        <img className="brand-logo" src={brand1} />
-        <img className="brand-logo" src={brand2} />
-        <img className="brand-logo" src={brand3} />
-        <img className="brand-logo" src={brand1} />
-        <img className="brand-logo" src={brand2} />
-        <img className="brand-logo" src={brand3} />
+        <img className="brand-logo" src={brand1} alt="" />
+        <img className="brand-logo" src={brand2} alt="" />
+        <img className="brand-logo" src={brand3} alt="" />
+        <img className="brand-logo" src={brand1} alt="" />
+        <img className="brand-logo" src={brand2} alt="" />
+        <img className="brand-logo" src={brand3} alt="" />
       </div>
 
       <div className="sale">
